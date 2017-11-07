@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /Applications/basic_scripts
+python hello_world.py

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ft-rti-email",
+  "private_key_id": "54bdf3f97e1c4f0a051dd884d51ae37250798e44",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYWP/JupuxFhT5\nLbPKeYJlaWMox073CNVxN8OkemgVSaYqE59kRAGscPez8Lt+WQVE0GJF2M9hmnfi\nPfhYSiMAU6b9ZvwQ+fxZy0XV0JseCEZt3ZBowlF551prqX7X52pDrrFkz8dZxHiC\nuO5nERjKh4njSL4ZPE3C6aXFhPp+fV/eFXbrqJgqB73fbO14dFiqcgHoEmqpK1sz\nW+QuaqgQ72HGqAcnk9ficbZ1tOEqoZwaRsxeQlH4SLqSKyPMsVkj542706GQgbQH\nJ1iGR6f8u9lyNz0hhAIJoi5lGPK+22d23L1SvF/3wkP0Xt+A/kDEBK3RyMPDEK/s\nppgePuqjAgMBAAECggEAQ/sSyLWYW8D6wuX94E+wPAh20u988QbkF41Go9JrN3SR\nzRzMdzVRed0+6vB0+cBHdZl3AKvqficrb60vcFZEoBSz40ddG0YxsO/fzbU0QoZ2\nxvejRNvQ95Cg7IHJtBXzeRgu2ElPL2NYUxyqZRtf8J/ii6UeDqy2Fk+kRSs9i8s9\nejau+YedxRu5R2eJWxwvnfEJ+4TWUrw7fumZ8R0FN5wJUnIQxw7IO3/T8B6ZhsFl\nO7yKro0iVQExS7cywXL9eJHHEuPDyW5M9D/v3c7198Nk4Oy1cnhgksfMaeNT058I\nl8Pj02I6aTXyRSO0UTwLtDeA+cltYc+TfXoW6/ZdIQKBgQDVz4uhb8zks355J4Cy\nJnHC3qwqTOC6qh82SfYzd2y9aOIsqUbYp/lvosYGRKX4HTcwzC8VD94UfD96+CBe\nTMu9357uRibfg3O2I3QJjJPcBo/jo1jr8BscZdIvihhzZqtxaAm7TJyjtQ50wja+\n4+FeCU8yuqdxLXYB1VbfaLRM1QKBgQC2aLPXpyZlTTRekVQL9Lb2Wcp3ByhtXXZl\nu7okCGmax7Hg2F51C5mSs+wfQxGyfGzM4kx2rNSiB+2Z1E3OEqHuOQzaqllB0Bvo\nOjdr/PgUULXhq9a7peQgMY2K8Es0vDPGqDlT07fl5jAMugAgbjBGsmrIJg+Tr2/8\nBuANiMe1lwKBgEo3ofNm2Iumlsc9ZBny6FhJbR+90eBZvz3cDJ8u3EsfRitUkygP\nnrEWooB4gdgPZCIHLmy0NlWMD4kC6lFxfOOq5QM2zLWXbqoRwmyyJH0itf3BrNMx\nZGfGHGCuIfCk+ewCviYK4PCen6b953z5ozg+KQSl8AuESUs3n9ErCjMFAoGAdMJk\ni9/khed7ZCUmZVjJXLtxC+u7BvZSeSBHMBVqc7brt38IR2ebb/pXZFNsGpHmmuco\nBrbujKECh/sLqqLmoDRIdBeidqwdkPLi0u7kZSycn8188DRp5+mQLqVNnn3xrnGz\n8GKPTkuf6iWNOzUNFdPS4jbqtaAQ0IQeGsu4+hUCgYBBVp+/454Kzml5m5Rd+NhV\nPlQnvX31Wh9u0BWQQr6qt3qj3aHz8FPpTGSuuhKCNB+3/63CzeU5nsWYgISyP37e\ndMXzxp+mjXlY8TAsRsc+RxSKbepliaOA6r0WosN7TO222g4P9+PjXFRhANMma856\nB7oiWLa/hwzxFEOOnwCpMA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ftrtiemail@ft-rti-email.iam.gserviceaccount.com",
+  "client_id": "111192214599792965953",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ftrtiemail%40ft-rti-email.iam.gserviceaccount.com"
+}
